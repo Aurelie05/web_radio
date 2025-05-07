@@ -47,6 +47,9 @@ export default function Welcome({
 
                     </div>
                 </div>
+                <div className='second'>
+                    <h2>Nos emssions</h2>
+                </div>
             </div>
         </Guest>
     );
