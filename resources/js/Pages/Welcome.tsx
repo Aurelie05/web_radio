@@ -1,4 +1,5 @@
 import Guest from '@/Layouts/GuestLayout';
+import React from 'react';
 import { PageProps } from '@/types';
 import { Head, Link } from '@inertiajs/react';
 import '@/Style/welcome.css'
@@ -47,9 +48,7 @@ export default function Welcome({
 
                     </div>
                 </div>
-                <div className='second'>
-                    <h2>Nos emssions</h2>
-                </div>
+               
             </div>
         </Guest>
     );
