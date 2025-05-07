@@ -84,3 +84,48 @@
     height: 500px;
     object-fit: cover;
 }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+
+    .firstimage img{
+        width: 100%;
+    }
+    .section2{
+        width: 100%;
+    }
+    .musique {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 50px;
+        height: 50px;
+        width: 200px;
+        background-color: #F4A300;
+        text-align: center;
+    }
+    .cards {
+        /* border: 2px solid red; */
+        display: flex;
+        height: 700px;
+        flex-direction: column; /* Les cartes s'empilent */
+        gap: 10px; /* Espacement entre les cartes */
+        width: 100%;
+    }
+
+    .card {
+        width: 50%;
+        height: 200px;
+        gap: 20px;
+        /* border: 2px solid#2C1F6A; */
+        margin: 5px 0;
+    }
+
+    .card img {
+        /* margin: 20px; */
+        width: 100%; /* L'image prend toute la largeur de la carte */
+        height: 200px;
+    }
+}

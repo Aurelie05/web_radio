@@ -35,7 +35,7 @@ export default function Welcome({
                     <img src={image} alt="" />
                     <div className='musique'>
                         <a href=""  rel="noopener noreferrer">
-                            Ecouter le direct <FaPlay />
+                            Ecoutez le direct <FaPlay />
                         </a>
                     </div>
                 </div>
