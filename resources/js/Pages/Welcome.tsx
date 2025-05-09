@@ -45,7 +45,7 @@ export default function Welcome({
                         <div className='card'><img src={card1} alt="" /></div>
                         <div className='card'><img src={card2} alt="" /></div>
                         <div className='card'><img src={card3} alt="" /></div>
-
+                        <div className='card'><img src={card1} alt="" /></div>
                     </div>
                 </div>
                

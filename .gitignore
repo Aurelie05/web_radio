@@ -23,3 +23,5 @@ yarn-error.log
 /.vscode
 /.zed
 node_modules
+public/storage/framework/views/*
+public/storage/logs/laravel.log
