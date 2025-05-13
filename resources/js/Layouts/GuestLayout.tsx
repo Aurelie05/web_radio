@@ -11,7 +11,8 @@ export default function Guest({ children }: PropsWithChildren) {
             <div className='navbar'>
                 <img src={logo} alt="" />
                 <div className='elemt1'>Accueil</div>
-                <div className='elemt2'>Contact</div>
+                <div className='elemt1'>A propos</div>
+                {/* <div className='elemt2'>Contact</div> */}
 
             </div>
             

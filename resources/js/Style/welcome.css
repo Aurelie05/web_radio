@@ -64,7 +64,7 @@
 .cards{
     width: 80%;
     height: 600px;
-    border: 2px solid;
+    /* border: 2px solid; */
     gap: 25px;
     margin: 0 auto;
     display: flex;
@@ -107,7 +107,7 @@
         text-align: center;
     }
     .cards {
-        border: 2px solid red;
+        /* border: 2px solid red; */
         display: flex;
         height: 700px;
         flex-direction: column; /* Les cartes s'empilent */
