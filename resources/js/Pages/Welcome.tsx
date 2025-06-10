@@ -42,7 +42,7 @@ export default function Welcome({
                 <div className='section2'>
                     <h2>Nos Programmes</h2>
                     <div className='cards'>
-                        <div className='card'><img src={card1} alt="" /></div>
+                       <div className='card'><img src={card1} alt="" /></div>
                         <div className='card'><img src={card2} alt="" /></div>
                         <div className='card'><img src={card3} alt="" /></div>
                         
