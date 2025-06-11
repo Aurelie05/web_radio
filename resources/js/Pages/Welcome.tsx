@@ -32,9 +32,9 @@ export default function Welcome({
             <div className="container">
                 
                 <div className="firstimage">
-                    <img src={image} alt="" />
+                    <img src="https://frequencevieyakro.ci/imagewebradio/empty-notebook-microphone.jpg" alt="" />
                     <div className='musique'>
-                        <a href=""  rel="noopener noreferrer">
+                        <a href="https://play.radioking.io/frequence-vie-yamoussoukro"  rel="noopener noreferrer">
                             Ecoutez le direct <FaPlay />
                         </a>
                     </div>
@@ -42,9 +42,9 @@ export default function Welcome({
                 <div className='section2'>
                     <h2>Nos Programmes</h2>
                     <div className='cards'>
-                       <div className='card'><img src={card1} alt="" /></div>
-                        <div className='card'><img src={card2} alt="" /></div>
-                        <div className='card'><img src={card3} alt="" /></div>
+                       <div className='card'><img src="https://frequencevieyakro.ci/imagewebradio/blank-white-spiral-notepad-with-headphone-speaker-orange-background.jpg" alt="" /></div>
+                        <div className='card'><img src="https://frequencevieyakro.ci/imagewebradio/close-up-microphone-pop-filter.jpg" alt="" /></div>
+                        <div className='card'><img src="https://frequencevieyakro.ci/imagewebradio/blank-white-spiral-notepad-with-headphone-speaker-red-background.jpg" alt="" /></div>
                         
                     </div>
                 </div>

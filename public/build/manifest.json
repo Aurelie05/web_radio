@@ -1,14 +1,18 @@
 {
-  "_AuthenticatedLayout-CWV3CjVU.js": {
-    "file": "assets/AuthenticatedLayout-CWV3CjVU.js",
+  "_AuthenticatedLayout-B90qXnt8.js": {
+    "file": "assets/AuthenticatedLayout-B90qXnt8.js",
     "name": "AuthenticatedLayout",
     "imports": [
       "resources/js/app.tsx",
-      "_transition-Ds1mwrk2.js"
+      "_transition-CVsurrDw.js"
     ]
   },
-  "_GuestLayout-BArpNVgx.js": {
-    "file": "assets/GuestLayout-BArpNVgx.js",
+  "_GuestLayout-BoV98g8s.css": {
+    "file": "assets/GuestLayout-BoV98g8s.css",
+    "src": "_GuestLayout-BoV98g8s.css"
+  },
+  "_GuestLayout-M8CULcYl.js": {
+    "file": "assets/GuestLayout-M8CULcYl.js",
     "name": "GuestLayout",
     "imports": [
       "resources/js/app.tsx"
@@ -20,220 +24,194 @@
       "assets/frequence-D0H3ZRYm.jpg"
     ]
   },
-  "_GuestLayout-BoV98g8s.css": {
-    "file": "assets/GuestLayout-BoV98g8s.css",
-    "src": "_GuestLayout-BoV98g8s.css"
-  },
-  "_InputLabel-Dl9Zcltr.js": {
-    "file": "assets/InputLabel-Dl9Zcltr.js",
+  "_InputLabel-BHmDyqiD.js": {
+    "file": "assets/InputLabel-BHmDyqiD.js",
     "name": "InputLabel",
     "imports": [
       "resources/js/app.tsx"
     ]
   },
-  "_PrimaryButton-CxYwRqr7.js": {
-    "file": "assets/PrimaryButton-CxYwRqr7.js",
+  "_PrimaryButton-BI3bjLJs.js": {
+    "file": "assets/PrimaryButton-BI3bjLJs.js",
     "name": "PrimaryButton",
     "imports": [
       "resources/js/app.tsx"
     ]
   },
-  "_TextInput-D17Ok_fF.js": {
-    "file": "assets/TextInput-D17Ok_fF.js",
+  "_TextInput-BUmZaujx.js": {
+    "file": "assets/TextInput-BUmZaujx.js",
     "name": "TextInput",
     "imports": [
       "resources/js/app.tsx"
     ]
   },
-  "_transition-Ds1mwrk2.js": {
-    "file": "assets/transition-Ds1mwrk2.js",
+  "_transition-CVsurrDw.js": {
+    "file": "assets/transition-CVsurrDw.js",
     "name": "transition",
     "imports": [
       "resources/js/app.tsx"
     ]
-  },
-  "resources/js/Assets/blank-white-spiral-notepad-with-headphone-speaker-orange-background.jpg": {
-    "file": "assets/blank-white-spiral-notepad-with-headphone-speaker-orange-background-dcG1vFxK.jpg",
-    "src": "resources/js/Assets/blank-white-spiral-notepad-with-headphone-speaker-orange-background.jpg"
-  },
-  "resources/js/Assets/blank-white-spiral-notepad-with-headphone-speaker-red-background.jpg": {
-    "file": "assets/blank-white-spiral-notepad-with-headphone-speaker-red-background-BZu52bPY.jpg",
-    "src": "resources/js/Assets/blank-white-spiral-notepad-with-headphone-speaker-red-background.jpg"
-  },
-  "resources/js/Assets/close-up-microphone-pop-filter.jpg": {
-    "file": "assets/close-up-microphone-pop-filter-B50Pzew0.jpg",
-    "src": "resources/js/Assets/close-up-microphone-pop-filter.jpg"
-  },
-  "resources/js/Assets/empty-notebook-microphone.jpg": {
-    "file": "assets/empty-notebook-microphone-DZd-3i6L.jpg",
-    "src": "resources/js/Assets/empty-notebook-microphone.jpg"
   },
   "resources/js/Assets/frequence.jpg": {
     "file": "assets/frequence-D0H3ZRYm.jpg",
     "src": "resources/js/Assets/frequence.jpg"
   },
   "resources/js/Pages/Auth/ConfirmPassword.tsx": {
-    "file": "assets/ConfirmPassword-Nw9LDU5E.js",
+    "file": "assets/ConfirmPassword-CM1eDWAj.js",
     "name": "ConfirmPassword",
     "src": "resources/js/Pages/Auth/ConfirmPassword.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_GuestLayout-BArpNVgx.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_GuestLayout-M8CULcYl.js"
     ]
   },
   "resources/js/Pages/Auth/ForgotPassword.tsx": {
-    "file": "assets/ForgotPassword-DWaaculQ.js",
+    "file": "assets/ForgotPassword-DyaEpc9I.js",
     "name": "ForgotPassword",
     "src": "resources/js/Pages/Auth/ForgotPassword.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_GuestLayout-BArpNVgx.js"
+      "_TextInput-BUmZaujx.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_GuestLayout-M8CULcYl.js"
     ]
   },
   "resources/js/Pages/Auth/Login.tsx": {
-    "file": "assets/Login-cmVyQhbi.js",
+    "file": "assets/Login-1eJOauQ9.js",
     "name": "Login",
     "src": "resources/js/Pages/Auth/Login.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_GuestLayout-BArpNVgx.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_GuestLayout-M8CULcYl.js"
     ]
   },
   "resources/js/Pages/Auth/Register.tsx": {
-    "file": "assets/Register-DMHJnDyn.js",
+    "file": "assets/Register-olrpGmCm.js",
     "name": "Register",
     "src": "resources/js/Pages/Auth/Register.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_GuestLayout-BArpNVgx.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_GuestLayout-M8CULcYl.js"
     ]
   },
   "resources/js/Pages/Auth/ResetPassword.tsx": {
-    "file": "assets/ResetPassword-CuquJvBP.js",
+    "file": "assets/ResetPassword-B9wye8xU.js",
     "name": "ResetPassword",
     "src": "resources/js/Pages/Auth/ResetPassword.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_GuestLayout-BArpNVgx.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_GuestLayout-M8CULcYl.js"
     ]
   },
   "resources/js/Pages/Auth/VerifyEmail.tsx": {
-    "file": "assets/VerifyEmail-DGjWL0bq.js",
+    "file": "assets/VerifyEmail-CzkPr8g8.js",
     "name": "VerifyEmail",
     "src": "resources/js/Pages/Auth/VerifyEmail.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_GuestLayout-BArpNVgx.js"
+      "_PrimaryButton-BI3bjLJs.js",
+      "_GuestLayout-M8CULcYl.js"
     ]
   },
   "resources/js/Pages/Dashboard.tsx": {
-    "file": "assets/Dashboard-CM4ZOHDe.js",
+    "file": "assets/Dashboard-DhP0y6pO.js",
     "name": "Dashboard",
     "src": "resources/js/Pages/Dashboard.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_AuthenticatedLayout-CWV3CjVU.js",
-      "_transition-Ds1mwrk2.js"
+      "_AuthenticatedLayout-B90qXnt8.js",
+      "_transition-CVsurrDw.js"
     ]
   },
   "resources/js/Pages/Profile/Edit.tsx": {
-    "file": "assets/Edit-BCA6-v1E.js",
+    "file": "assets/Edit-BHunlL_2.js",
     "name": "Edit",
     "src": "resources/js/Pages/Profile/Edit.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_AuthenticatedLayout-CWV3CjVU.js",
+      "_AuthenticatedLayout-B90qXnt8.js",
       "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
       "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
       "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx",
-      "_transition-Ds1mwrk2.js",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js"
+      "_transition-CVsurrDw.js",
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js"
     ]
   },
   "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx": {
-    "file": "assets/DeleteUserForm-CTcQVQct.js",
+    "file": "assets/DeleteUserForm-22kfF0Q9.js",
     "name": "DeleteUserForm",
     "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_transition-Ds1mwrk2.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_transition-CVsurrDw.js"
     ]
   },
   "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx": {
-    "file": "assets/UpdatePasswordForm-Bu6qQli-.js",
+    "file": "assets/UpdatePasswordForm-DEDHPhG2.js",
     "name": "UpdatePasswordForm",
     "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_transition-Ds1mwrk2.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_transition-CVsurrDw.js"
     ]
   },
   "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx": {
-    "file": "assets/UpdateProfileInformationForm-DpWyeBOH.js",
+    "file": "assets/UpdateProfileInformationForm-CSMQV3Pk.js",
     "name": "UpdateProfileInformationForm",
     "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_TextInput-D17Ok_fF.js",
-      "_InputLabel-Dl9Zcltr.js",
-      "_PrimaryButton-CxYwRqr7.js",
-      "_transition-Ds1mwrk2.js"
+      "_TextInput-BUmZaujx.js",
+      "_InputLabel-BHmDyqiD.js",
+      "_PrimaryButton-BI3bjLJs.js",
+      "_transition-CVsurrDw.js"
     ]
   },
   "resources/js/Pages/Welcome.tsx": {
-    "file": "assets/Welcome-BvDtC-2e.js",
+    "file": "assets/Welcome-CdJ_aODE.js",
     "name": "Welcome",
     "src": "resources/js/Pages/Welcome.tsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.tsx",
-      "_GuestLayout-BArpNVgx.js"
+      "_GuestLayout-M8CULcYl.js"
     ],
     "css": [
       "assets/Welcome-Dvrciv3X.css"
-    ],
-    "assets": [
-      "assets/empty-notebook-microphone-DZd-3i6L.jpg",
-      "assets/blank-white-spiral-notepad-with-headphone-speaker-orange-background-dcG1vFxK.jpg",
-      "assets/close-up-microphone-pop-filter-B50Pzew0.jpg",
-      "assets/blank-white-spiral-notepad-with-headphone-speaker-red-background-BZu52bPY.jpg"
     ]
   },
   "resources/js/app.tsx": {
-    "file": "assets/app-CHpzXqF6.js",
+    "file": "assets/app-CxVgy6Ey.js",
     "name": "app",
     "src": "resources/js/app.tsx",
     "isEntry": true,
