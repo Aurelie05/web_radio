@@ -135,3 +135,39 @@
         object-fit: cover;
     }
 }
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    .firstimage{
+        width:100%;
+        height:600px;
+    }
+    .firstimage img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1440px) {
+    .firstimage{
+        width:100%;
+        height:600px;
+    }
+    .firstimage img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+@media screen and (min-width: 1441px) {
+    .firstimage{
+        width:100%;
+        height:600px;
+    }
+    .firstimage img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+}
