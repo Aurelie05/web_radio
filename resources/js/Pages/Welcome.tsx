@@ -34,7 +34,7 @@ export default function Welcome({
                 <div className="firstimage">
                     <img src="https://frequencevieyakro.ci/imagewebradio/empty-notebook-microphone.jpg" alt="" />
                     <div className='musique'>
-                        <a href="https://play.radioking.io/frequence-vie-yamoussoukro"  rel="noopener noreferrer">
+                        <a href="https://play.radioking.io/frequence-vie-yamoussoukro" rel="noopener noreferrer"  target="_blank">
                             Ecoutez le direct <FaPlay />
                         </a>
                     </div>
